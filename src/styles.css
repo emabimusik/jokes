@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+.card{
+    padding: 25px;
+}
+a{
+    height:50px;
+    width: 150px;
+    font-size: 20px;
+}
